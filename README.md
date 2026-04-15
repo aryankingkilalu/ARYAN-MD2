@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+∆RY∆N;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
 </p>
 
 <div align="center">
@@ -25,7 +25,7 @@
 
 ### 🔰 ➊ FOLLOW GITHUB
 
-[![](https://img.shields.io/badge/➕_FOLLOW_∆RY∆N-TECH-𝚾𝚳𝐃-orange?style=for-the-badge&logo=github)](https://github.com/mselachui03)
+[![](https://img.shields.io/badge/➕_FOLLOW_∆RY∆N-TECH-𝚾𝚳𝐃-orange?style=for-the-badge&logo=github)](https://github.com/aryantech03)
 
 ---
 
@@ -51,7 +51,7 @@
    
    [![WHATSAPP](https://img.shields.io/badge/Support%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]( https://chat.whatsapp.com/DmSuN4ZMdnkAGdnpK0Q5Gl?mode=gi_t)
 
-<a aria-label="CONTACT DEVELOPER" href="https://wa.me/260769355624?text=Hi!! aryantech Sir, I need Your Help" target="_blank">
+<a aria-label="CONTACT DEVELOPER" href="https://wa.me/255637518095?text=Hi!! aryantech Sir, I need Your Help" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>  
